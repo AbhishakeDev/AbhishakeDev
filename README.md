@@ -9,5 +9,5 @@ I'm a computer science student who is passionate about writing code and building
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abhishek-tripathi-a0a994192/) [Gmail](mailto:abhishekt.1181@gmail.com)
 
-⭐️ From [hazemessam](https://github.com/AbhishakeDev)
+⭐️ From [Abhishek](https://github.com/AbhishakeDev)
 Inspired from [Brad Traversy](https://github.com/bradtraversy)
